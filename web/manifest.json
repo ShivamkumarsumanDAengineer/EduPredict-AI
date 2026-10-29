@@ -1,0 +1,12 @@
+{
+  "name": "EduPredict AI",
+  "short_name": "EduPredict",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F8F9FF",
+  "theme_color": "#004AC6",
+  "description": "EduPredict AI - Student Performance Prediction, Academic Tracking & AI Study Buddy",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
+
